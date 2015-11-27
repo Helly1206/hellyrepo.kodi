@@ -1,2 +1,6 @@
-[B]Version 1.0[/B]
+[B]Version 0.1.1[/B]
+- Test for adding repo to repository for auto updating in future
+- Removed addon version for compatibility issues (dependencies not matching error)
+
+[B]Version 0.1.0[/B]
 - Initial version
