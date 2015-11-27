@@ -1,3 +1,6 @@
+[B]Version 0.2.1[/B]
+- Update on versioning
+
 [B]Version 0.2.0[/B]
 - Added version information to differentiate between isengard and master branch (to be compatible for jarvis)
 
