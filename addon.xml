@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="hellyrepo.kodi" name="HellyRepo" version="0.2.1" provider-name="Ivo Helwegen">
+    <addon id="hellyrepo.kodi" name="HellyRepo" version="0.2.2" provider-name="Ivo Helwegen">
         <extension point="xbmc.addon.repository" name="HellyRepo">
             <dir minversion="15.0.0">
                 <info compressed="false">https://raw.githubusercontent.com/Helly1206/_repo/isengard/addons.xml</info>
@@ -8,6 +8,12 @@
                 <hashes>false</hashes>
             </dir>
             <dir minversion="15.9.0">
+                <info compressed="false">https://raw.githubusercontent.com/Helly1206/_repo/jarvis/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Helly1206/_repo/jarvis/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Helly1206/_repo/jarvis/</datadir>
+                <hashes>false</hashes>
+            </dir>
+            <dir minversion="16.9.0">
                 <info compressed="false">https://raw.githubusercontent.com/Helly1206/_repo/master/addons.xml</info>
                 <checksum>https://raw.githubusercontent.com/Helly1206/_repo/master/addons.xml.md5</checksum>
                 <datadir zip="true">https://raw.githubusercontent.com/Helly1206/_repo/master/</datadir>
