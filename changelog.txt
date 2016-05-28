@@ -1,3 +1,6 @@
+[B]Version 0.2.3[/B]
+- Bugfix
+
 [B]Version 0.2.2[/B]
 - Update on versioning for Krypton
 
