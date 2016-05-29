@@ -1,3 +1,6 @@
+[B]Version 0.2.4[/B]
+- Changed krypton location to overcome upgrading issues under Jarvis or older versions
+
 [B]Version 0.2.3[/B]
 - Bugfix
 
