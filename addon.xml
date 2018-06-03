@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="hellyrepo.kodi" name="HellyRepo" version="0.2.6" provider-name="Helly">
+	<addon id="hellyrepo.kodi" name="HellyRepo" version="0.2.6" provider-name="Helly">
         <extension point="xbmc.addon.repository" name="HellyRepo">
             <dir minversion="15.0.0">
                 <info compressed="false">https://raw.githubusercontent.com/Helly1206/_repo/isengard/addons.xml</info>
